@@ -1,0 +1,6 @@
+{
+  "name": "JEE 2027 Master Command AI",
+  "description": "AI-Powered Exam Target Tracker, Timetable OCR Scanner, and Multimodal Study Command Center for JEE 2027 aspirants.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
